@@ -15,7 +15,7 @@ module "vpc" {
   tags = {
     Terraform   = "true"
     Environment = "dev"
-    Name        = "cloud-orchestration-project-vpc"
-    CC		= "10777"
+    Name        = "cloud-orchestration-project"
+    CC		= "29052"
   }
 }
